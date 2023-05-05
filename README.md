@@ -32,4 +32,7 @@ Este site nos trás a previsão do tempo de todas as regiões do brasil e do mun
 - ![ CSS3 ](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) : utilizado para estilizar a página, definindo as cores, fontes, recursos e emoções dos elementos,  aplicando a responsividade  para que o site seja acessado de diversos dispositivos como: desktop, celular e tablet.
 - ![ JavaScript ](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript): utilizado para realizar a interação dos elementos e componentes, dando vida à página web.
 - ![ NODE.JS ](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white): Consumindo uma API com node js para trazer os dados em tempo real.
+- ![ INSOMNIA ](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white): Realizando teste de Rota entre cliente & servidor.
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/d76cde39-fc24-47e2-a66a-5040c1ff975b/deploy-status)](https://app.netlify.com/sites/app-users-log/deploys): Implantação do site.
+- ![ GITHUB ](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white): Hospedando os Códigos na plataforma GitHub.
 <br>
